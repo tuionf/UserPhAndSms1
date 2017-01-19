@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UserPhAndSms</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Phone_context">电话内容</string>
+    <string name="sms_context">短信内容</string>
+
+</resources>

@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Jan 18 19:41:20 CST 2017
+1.base=G\:\\AndroidStudioProjects\\UserPhAndSms1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=G\:\\AndroidStudioProjects\\UserPhAndSms1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.base=G\:\\AndroidStudioProjects\\UserPhAndSms1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=G\:\\AndroidStudioProjects\\UserPhAndSms1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+count=4
+1.set=ANDROID_RESOURCE
+3.base=G\:\\AndroidStudioProjects\\UserPhAndSms1\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=G\:\\AndroidStudioProjects\\UserPhAndSms1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=G\:\\AndroidStudioProjects\\UserPhAndSms1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=G\:\\AndroidStudioProjects\\UserPhAndSms1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
